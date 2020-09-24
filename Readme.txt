@@ -1,0 +1,1 @@
+This little gadget creates, plays and optionally saves .wav files. You define duration, frequency and sound characteristics. See screenshot for details. Update for visualisation. Download ist only 7 kB.
